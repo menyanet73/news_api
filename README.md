@@ -54,7 +54,7 @@ Done!
 
 ### Endpoints
 
-localhost/users/ - Allowed methods [POST] - {"username":"user", "password":"pass"}, for create user. \n
+localhost/users/ - Allowed methods [POST] - {"username":"user", "password":"pass"}, for create user. <br/>
 localhost/users/{id} - Allowed methods [DELETE], for delete user.\n
 localhost/auth/ - Allowed methods [POST] - {"username":"user", "password":"pass"}, for create token.\n
 Token must be transmissed to header of request (Authorization - Token ***token***\n
