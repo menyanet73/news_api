@@ -55,10 +55,10 @@ Done!
 ### Endpoints
 
 localhost/users/ - Allowed methods [POST] - {"username":"user", "password":"pass"}, for create user. <br/>
-localhost/users/{id} - Allowed methods [DELETE], for delete user.\n
-localhost/auth/ - Allowed methods [POST] - {"username":"user", "password":"pass"}, for create token.\n
-Token must be transmissed to header of request (Authorization - Token ***token***\n
-localhost/news/ - Allowed methods [GET, POST] - {"title":"Title of news", "text": "text of news, and description for photos of Spider Man."}, for create news and get list of it.\n
+localhost/users/{id} - Allowed methods [DELETE], for delete user.<br/>
+localhost/auth/ - Allowed methods [POST] - {"username":"user", "password":"pass"}, for create token.<br/>
+Token must be transmissed to header of request (Authorization - Token ***token***<br/>
+localhost/news/ - Allowed methods [GET, POST] - {"title":"Title of news", "text": "text of news, and description for photos of Spider Man."}, for create news and get list of it.<br/>
 
 ### Author
 ##### https://github.com/menyanet73
