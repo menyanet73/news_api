@@ -36,7 +36,7 @@ POSTGRES_USER=postgres
 POSTGRES_PASSWORD=postgres
 PGHOST=database
 PGPORT=5432
-DEBUG=0
+DEBUG=False
 ```
 
 ```sh
